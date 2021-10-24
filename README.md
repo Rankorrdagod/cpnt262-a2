@@ -3,7 +3,7 @@
 Difficult times getting the gallery to work at first, realized part of it was how I was defining file location.
 Made it a lot easier to make large groups of images in a gallery once you understand the information you need to include/
 ## Attributions
-- [Image 1] (https://pixabay.com/photos/city-buildings-architecture-towers-336708/)
+- [Image 1](https://pixabay.com/photos/city-buildings-architecture-towers-336708/)
 - [Image 2](https://pixabay.com/photos/canal-venice-italy-water-river-1209808/)
 - [Image 3](https://pixabay.com/photos/santorini-greece-buildings-houses-416136/)
 - [Image 4](https://pixabay.com/photos/vaulted-cellar-tunnel-arches-keller-24739/)
