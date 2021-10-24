@@ -19,7 +19,7 @@ const travelImages = [
     pathURL: 'image-2.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Canal',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/canal-venice-italy-water-river-1209808/'
 },
 {
     id: 3,
@@ -30,7 +30,7 @@ const travelImages = [
     pathURL: 'image-3.jpg',
     linkURL: 'hhttps://en.wikipedia.org/wiki/Santorini',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/santorini-greece-buildings-houses-416136/'
 },
 {
     id: 4,
@@ -41,7 +41,7 @@ const travelImages = [
     pathURL: 'image-4.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Catacombs',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/vaulted-cellar-tunnel-arches-keller-247391/'
 },
 {
     id: 5,
@@ -52,7 +52,7 @@ const travelImages = [
     pathURL: 'image-5.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Mosque',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/mosque-abu-dhabi-to-travel-white-615415/'
 },
 {
     id: 6,
@@ -63,7 +63,7 @@ const travelImages = [
     pathURL: 'image-6.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Venice',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/street-architecture-city-road-3453557/'
 },
 {
     id: 7,
@@ -74,7 +74,7 @@ const travelImages = [
     pathURL: 'image-7.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Big_Ben',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/palace-london-parliament-big-ben-530055/'
 },
 {
     id: 8,
@@ -85,7 +85,7 @@ const travelImages = [
     pathURL: 'image-8.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Parthenon',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/greece-parthenon-temple-ruins-1594689/'
 },
 {
     id: 9,
@@ -96,7 +96,7 @@ const travelImages = [
     pathURL: 'image-9.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Chicago',
     credit: 'Pixabay',
-    creditURL: 'https://pixabay.com/photos/city-buildings-architecture-towers-336708/'
+    creditURL: 'https://pixabay.com/photos/pedestrians-crossing-traffic-1853552/'
 }
 ];
 
